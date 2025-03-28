@@ -1,0 +1,1 @@
+The Saloon Booking App is a digital platform designed to simplify the process of booking appointments for a single saloon. It allows customers to browse available services, select preferred time slots, and book appointments effortlessly.
